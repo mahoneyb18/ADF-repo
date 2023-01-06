@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Mahoney-Dev",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eab07f77-4ec6-49c1-99a7-87f71ed66004",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
